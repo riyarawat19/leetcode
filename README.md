@@ -15,4 +15,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/riyarawat19/leetcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
+## String
+|  |
+| ------- |
+| [0058-length-of-last-word](https://github.com/riyarawat19/leetcode/tree/master/0058-length-of-last-word) |
 <!---LeetCode Topics End-->
