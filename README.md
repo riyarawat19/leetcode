@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0355-design-twitter](https://github.com/riyarawat19/leetcode/tree/master/0355-design-twitter) |
+| [0424-longest-repeating-character-replacement](https://github.com/riyarawat19/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [1248-count-number-of-nice-subarrays](https://github.com/riyarawat19/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1635-number-of-good-pairs](https://github.com/riyarawat19/leetcode/tree/master/1635-number-of-good-pairs) |
 | [2428-equal-row-and-column-pairs](https://github.com/riyarawat19/leetcode/tree/master/2428-equal-row-and-column-pairs) |
@@ -23,12 +24,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/riyarawat19/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [1248-count-number-of-nice-subarrays](https://github.com/riyarawat19/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/riyarawat19/leetcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 ## String
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/riyarawat19/leetcode/tree/master/0058-length-of-last-word) |
+| [0424-longest-repeating-character-replacement](https://github.com/riyarawat19/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 ## Greedy
 |  |
 | ------- |
