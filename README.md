@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1043-partition-array-for-maximum-sum](https://github.com/riyarawat19/leetcode/tree/master/1043-partition-array-for-maximum-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/riyarawat19/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1635-number-of-good-pairs](https://github.com/riyarawat19/leetcode/tree/master/1635-number-of-good-pairs) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/riyarawat19/leetcode/tree/master/2094-remove-stones-to-minimize-the-total) |
@@ -83,4 +84,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1248-count-number-of-nice-subarrays](https://github.com/riyarawat19/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1043-partition-array-for-maximum-sum](https://github.com/riyarawat19/leetcode/tree/master/1043-partition-array-for-maximum-sum) |
 <!---LeetCode Topics End-->
