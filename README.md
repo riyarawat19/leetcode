@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0058-length-of-last-word](https://github.com/riyarawat19/leetcode/tree/master/0058-length-of-last-word) |
 | [0424-longest-repeating-character-replacement](https://github.com/riyarawat19/leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0647-palindromic-substrings](https://github.com/riyarawat19/leetcode/tree/master/0647-palindromic-substrings) |
 ## Greedy
 |  |
 | ------- |
@@ -89,5 +90,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/riyarawat19/leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0647-palindromic-substrings](https://github.com/riyarawat19/leetcode/tree/master/0647-palindromic-substrings) |
 | [1043-partition-array-for-maximum-sum](https://github.com/riyarawat19/leetcode/tree/master/1043-partition-array-for-maximum-sum) |
+## Two Pointers
+|  |
+| ------- |
+| [0647-palindromic-substrings](https://github.com/riyarawat19/leetcode/tree/master/0647-palindromic-substrings) |
 <!---LeetCode Topics End-->
