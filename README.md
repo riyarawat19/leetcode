@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0355-design-twitter](https://github.com/riyarawat19/leetcode/tree/master/0355-design-twitter) |
 | [0424-longest-repeating-character-replacement](https://github.com/riyarawat19/leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0451-sort-characters-by-frequency](https://github.com/riyarawat19/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1248-count-number-of-nice-subarrays](https://github.com/riyarawat19/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1635-number-of-good-pairs](https://github.com/riyarawat19/leetcode/tree/master/1635-number-of-good-pairs) |
 | [2428-equal-row-and-column-pairs](https://github.com/riyarawat19/leetcode/tree/master/2428-equal-row-and-column-pairs) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0058-length-of-last-word](https://github.com/riyarawat19/leetcode/tree/master/0058-length-of-last-word) |
 | [0424-longest-repeating-character-replacement](https://github.com/riyarawat19/leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0451-sort-characters-by-frequency](https://github.com/riyarawat19/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0647-palindromic-substrings](https://github.com/riyarawat19/leetcode/tree/master/0647-palindromic-substrings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/riyarawat19/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Greedy
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0355-design-twitter](https://github.com/riyarawat19/leetcode/tree/master/0355-design-twitter) |
+| [0451-sort-characters-by-frequency](https://github.com/riyarawat19/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/riyarawat19/leetcode/tree/master/2094-remove-stones-to-minimize-the-total) |
 ## Binary Search
 |  |
@@ -74,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/riyarawat19/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1635-number-of-good-pairs](https://github.com/riyarawat19/leetcode/tree/master/1635-number-of-good-pairs) |
 ## Linked List
 |  |
@@ -101,4 +105,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/riyarawat19/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Sorting
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/riyarawat19/leetcode/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/riyarawat19/leetcode/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
