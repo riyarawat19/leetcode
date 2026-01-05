@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/riyarawat19/leetcode/tree/master/0058-length-of-last-word) |
 | [0424-longest-repeating-character-replacement](https://github.com/riyarawat19/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0647-palindromic-substrings](https://github.com/riyarawat19/leetcode/tree/master/0647-palindromic-substrings) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/riyarawat19/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Greedy
 |  |
 | ------- |
@@ -96,4 +97,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0647-palindromic-substrings](https://github.com/riyarawat19/leetcode/tree/master/0647-palindromic-substrings) |
+## Stack
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/riyarawat19/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
