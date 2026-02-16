@@ -44,10 +44,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/riyarawat19/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0647-palindromic-substrings](https://github.com/riyarawat19/leetcode/tree/master/0647-palindromic-substrings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/riyarawat19/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/riyarawat19/leetcode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Greedy
 |  |
 | ------- |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/riyarawat19/leetcode/tree/master/2094-remove-stones-to-minimize-the-total) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/riyarawat19/leetcode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/riyarawat19/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/riyarawat19/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0647-palindromic-substrings](https://github.com/riyarawat19/leetcode/tree/master/0647-palindromic-substrings) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/riyarawat19/leetcode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/riyarawat19/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Stack
 |  |
