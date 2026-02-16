@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1043-partition-array-for-maximum-sum](https://github.com/riyarawat19/leetcode/tree/master/1043-partition-array-for-maximum-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/riyarawat19/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1635-number-of-good-pairs](https://github.com/riyarawat19/leetcode/tree/master/1635-number-of-good-pairs) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/riyarawat19/leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/riyarawat19/leetcode/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2428-equal-row-and-column-pairs](https://github.com/riyarawat19/leetcode/tree/master/2428-equal-row-and-column-pairs) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/riyarawat19/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/riyarawat19/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0647-palindromic-substrings](https://github.com/riyarawat19/leetcode/tree/master/0647-palindromic-substrings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/riyarawat19/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/riyarawat19/leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2000-reverse-prefix-of-word](https://github.com/riyarawat19/leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/riyarawat19/leetcode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Greedy
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0355-design-twitter](https://github.com/riyarawat19/leetcode/tree/master/0355-design-twitter) |
 | [0451-sort-characters-by-frequency](https://github.com/riyarawat19/leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/riyarawat19/leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/riyarawat19/leetcode/tree/master/2094-remove-stones-to-minimize-the-total) |
 ## Binary Search
 |  |
@@ -133,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/riyarawat19/leetcode/tree/master/0056-merge-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/riyarawat19/leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/riyarawat19/leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/riyarawat19/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Bucket Sort
 |  |
@@ -146,4 +150,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/riyarawat19/leetcode/tree/master/0503-next-greater-element-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/riyarawat19/leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+## Quickselect
+|  |
+| ------- |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/riyarawat19/leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 <!---LeetCode Topics End-->
