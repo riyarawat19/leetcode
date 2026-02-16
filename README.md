@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/riyarawat19/leetcode/tree/master/1635-number-of-good-pairs) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/riyarawat19/leetcode/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2428-equal-row-and-column-pairs](https://github.com/riyarawat19/leetcode/tree/master/2428-equal-row-and-column-pairs) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/riyarawat19/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/riyarawat19/leetcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3790-fruits-into-baskets-ii](https://github.com/riyarawat19/leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Hash Table
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0540-single-element-in-a-sorted-array](https://github.com/riyarawat19/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/riyarawat19/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3790-fruits-into-baskets-ii](https://github.com/riyarawat19/leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Segment Tree
 |  |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/riyarawat19/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/riyarawat19/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0647-palindromic-substrings](https://github.com/riyarawat19/leetcode/tree/master/0647-palindromic-substrings) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/riyarawat19/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Stack
 |  |
 | ------- |
@@ -124,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/riyarawat19/leetcode/tree/master/0056-merge-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/riyarawat19/leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/riyarawat19/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Bucket Sort
 |  |
 | ------- |
