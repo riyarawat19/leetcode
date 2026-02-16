@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/riyarawat19/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/riyarawat19/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0647-palindromic-substrings](https://github.com/riyarawat19/leetcode/tree/master/0647-palindromic-substrings) |
+| [0796-rotate-string](https://github.com/riyarawat19/leetcode/tree/master/0796-rotate-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/riyarawat19/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/riyarawat19/leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2000-reverse-prefix-of-word](https://github.com/riyarawat19/leetcode/tree/master/2000-reverse-prefix-of-word) |
@@ -168,4 +169,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/riyarawat19/leetcode/tree/master/0973-k-closest-points-to-origin) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/riyarawat19/leetcode/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
