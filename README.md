@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/riyarawat19/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/riyarawat19/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0355-design-twitter](https://github.com/riyarawat19/leetcode/tree/master/0355-design-twitter) |
+| [2487-remove-nodes-from-linked-list](https://github.com/riyarawat19/leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Design
 |  |
 | ------- |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/riyarawat19/leetcode/tree/master/0503-next-greater-element-ii) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/riyarawat19/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/riyarawat19/leetcode/tree/master/2000-reverse-prefix-of-word) |
+| [2487-remove-nodes-from-linked-list](https://github.com/riyarawat19/leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Sorting
 |  |
 | ------- |
@@ -152,10 +154,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/riyarawat19/leetcode/tree/master/0234-palindrome-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/riyarawat19/leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/riyarawat19/leetcode/tree/master/0503-next-greater-element-ii) |
+| [2487-remove-nodes-from-linked-list](https://github.com/riyarawat19/leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Divide and Conquer
 |  |
 | ------- |
