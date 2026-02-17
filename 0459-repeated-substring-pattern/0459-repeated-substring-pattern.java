@@ -1,0 +1,13 @@
+class Solution {
+    public boolean repeatedSubstringPattern(String s) {
+         String doubled=s+s;
+          String trimmed= doubled.substring(1,doubled.length()-1);
+          return trimmed.contains(s);
+        
+    }
+}
+// 1️⃣ Double string
+// 2️⃣ Remove first & last char
+// 3️⃣ Check if original exists
+
+// If yes → repeated pattern exists
