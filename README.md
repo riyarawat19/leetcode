@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/riyarawat19/leetcode/tree/master/0056-merge-intervals) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/riyarawat19/leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0287-find-the-duplicate-number](https://github.com/riyarawat19/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0503-next-greater-element-ii](https://github.com/riyarawat19/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/riyarawat19/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0973-k-closest-points-to-origin](https://github.com/riyarawat19/leetcode/tree/master/0973-k-closest-points-to-origin) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/riyarawat19/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/riyarawat19/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/riyarawat19/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3790-fruits-into-baskets-ii](https://github.com/riyarawat19/leetcode/tree/master/3790-fruits-into-baskets-ii) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/riyarawat19/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0142-linked-list-cycle-ii](https://github.com/riyarawat19/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/riyarawat19/leetcode/tree/master/0234-palindrome-linked-list) |
+| [0287-find-the-duplicate-number](https://github.com/riyarawat19/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0647-palindromic-substrings](https://github.com/riyarawat19/leetcode/tree/master/0647-palindromic-substrings) |
 | [2000-reverse-prefix-of-word](https://github.com/riyarawat19/leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/riyarawat19/leetcode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
@@ -179,4 +182,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/riyarawat19/leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0796-rotate-string](https://github.com/riyarawat19/leetcode/tree/master/0796-rotate-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/riyarawat19/leetcode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
