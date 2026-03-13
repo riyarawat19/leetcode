@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/riyarawat19/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0503-next-greater-element-ii](https://github.com/riyarawat19/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/riyarawat19/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0817-linked-list-components](https://github.com/riyarawat19/leetcode/tree/master/0817-linked-list-components) |
 | [0973-k-closest-points-to-origin](https://github.com/riyarawat19/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1043-partition-array-for-maximum-sum](https://github.com/riyarawat19/leetcode/tree/master/1043-partition-array-for-maximum-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/riyarawat19/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/riyarawat19/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/riyarawat19/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/riyarawat19/leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0817-linked-list-components](https://github.com/riyarawat19/leetcode/tree/master/0817-linked-list-components) |
 | [1248-count-number-of-nice-subarrays](https://github.com/riyarawat19/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1635-number-of-good-pairs](https://github.com/riyarawat19/leetcode/tree/master/1635-number-of-good-pairs) |
 | [2428-equal-row-and-column-pairs](https://github.com/riyarawat19/leetcode/tree/master/2428-equal-row-and-column-pairs) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/riyarawat19/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/riyarawat19/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0355-design-twitter](https://github.com/riyarawat19/leetcode/tree/master/0355-design-twitter) |
+| [0817-linked-list-components](https://github.com/riyarawat19/leetcode/tree/master/0817-linked-list-components) |
 | [2487-remove-nodes-from-linked-list](https://github.com/riyarawat19/leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Design
 |  |
